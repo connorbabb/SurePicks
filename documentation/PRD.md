@@ -1,6 +1,6 @@
 # Product Requirements Document (PRD) - SurePicks
 
-## 1. Executive Summary
+## 1. Executive Summary:
 
 SurePicks is a private NFL Pick 'Em web application with one defining feature: a hard "Thursday Lock" that disables all pick modifications every Thursday at 5:00 PM PST. This global lockout eliminates the need to check individual game kickoff times and creates a clear "Final Answer" moment for all players each week. The application manages an 18-week NFL regular season with a central Standings page serving as the hub for weekly win/loss tracking and cumulative season leaderboards.
 
